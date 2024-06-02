@@ -1,0 +1,55 @@
+.calc {
+  width: 320px;
+  margin: 100px auto;
+}
+
+#answer {
+  background-color: #e3e3e3;
+  padding: 10px;
+  font-size: 32px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid #333;
+}
+
+.button {
+  background: #333;
+  height: 80px;
+  width: 80px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid black;
+  float: left;
+}
+
+.button1 {
+  width: 160px;
+}
+
+.button2 {
+  background: grey;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.header {
+  justify-content: space-between;
+  font-size: 20px;
+  background-color: gray;
+  display: flex;
+  padding: 40px;
+}
+
+.counter button {
+  font-size: large;
+  width: 100px;
+  height: 40px;
+  color: rgb(255, 232, 255);
+  background-color: darkcyan;
+  border-radius: 10px;
+}
+.counter {
+  background-color: pink;
+  height: 1000px;
+}
